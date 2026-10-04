@@ -38,20 +38,7 @@ export default function About() {
           ))}
         </ul>
       </section>
-      <section className="card span2">
-        <h2>Demo script for the judges (about 2 minutes)</h2>
-        <ol className="plain num">
-          <li>
-            <strong>Honest intake.</strong> Terminal tab, defaults, then Tap card &amp; weigh. Payout appears in seconds.
-          </li>
-          <li>
-            <strong>Catch the cheats.</strong> Threat lab tab: run identity hijack, weight tampering and the stones case.
-          </li>
-          <li>
-            <strong>Prove the audit trail.</strong> Dashboard tab: press Tamper on a block and the integrity badge goes red.
-          </li>
-        </ol>
-      </section>
+      
     </div>
   );
 }
