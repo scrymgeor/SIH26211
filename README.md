@@ -1,7 +1,7 @@
 # DPOP: Decentralized Proof-of-Procurement
 
 > **Smart India Hackathon 2026 | Problem Statement: PS26211**
-> **Team:** The W.A.L.L. | **Category:** Hardware & Web3
+> **Team:** The W.A.L.L. | **Category:** Hardware
 
 [![React](https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
