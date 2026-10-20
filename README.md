@@ -2,6 +2,7 @@
 
 > **Smart India Hackathon 2026 | Problem Statement: PS26211**
 > **Team:** The W.A.L.L. | **Category:** Hardware
+> **👀 Live Demo:** [![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://sih-26211.vercel.app/)
 
 [![React](https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
